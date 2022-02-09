@@ -1,0 +1,27 @@
+body{
+   font-family: 'Open Sans', sans-serif;
+}
+.fontregular{
+   font-weight: 400;
+}
+.fontheavy{
+   font-weight: 700;
+}
+.bg-color{
+   background-color: var(--pink);
+}
+.bg-color2{
+   background-color: var(--info)
+}
+.whitetext{
+   color: var(--white);
+}
+.blacktext{
+   color: #292129;
+}
+.footerlogo{
+   width: 3.5em;
+}
+.logo{
+   width: 8em;
+}
